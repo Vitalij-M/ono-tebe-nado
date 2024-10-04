@@ -99,10 +99,6 @@
   text-align: right;
 }
 
-.spec_align {
-  letter-spacing: 0.08em;
-}
-
 .content_overlay {
   position: absolute;
   inset: 0;
